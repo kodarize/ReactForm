@@ -7,12 +7,19 @@
     "dev": "next",
     "build": "next build",
     "start": "next start"
-},
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "next": "^13.4.12",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "engines": {
+    "node": ">=16.8.0"
+  },
+  "resolutions": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
