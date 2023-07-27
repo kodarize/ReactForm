@@ -8,7 +8,9 @@ const Home = () => {
     <>
       <Head>
         <title>World of Rogues Waitlist</title>
+        <link rel="icon" href="/fox.svg" type="image/svg+xml" />
       </Head>
+
       <main>
         <h1>Welcome to World of Rogues!</h1>
         <p>
